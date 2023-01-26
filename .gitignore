@@ -1,4 +1,5 @@
 build
+builds
 config.mk
 include/dlg/
 src/dlg/dlg.c
